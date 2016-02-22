@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D://Tanchiki/Tanchiki.iml" filepath="D://Tanchiki/Tanchiki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanchiki.iml" filepath="$PROJECT_DIR$/Tanchiki.iml" />
     </modules>
   </component>
 </project>
